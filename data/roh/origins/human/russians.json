@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"packnamehere:powernamehere"
+	],
+	"icon": "minecraft:green_wool",
+	"order": 10,
+	"impact": 0,
+	"name": "Russians",
+	"description": "DESCRIPTION HERE"
+}

@@ -1,0 +1,25 @@
+{
+    "origins":[
+        {
+            "condition": {
+                "type": "origins:origin",
+                "layer": "origins:origin",
+                "origin": "origins:human"
+            },
+            "origins": [
+                "roh:human/english",
+                "roh:human/french",
+                "roh:human/spanish",
+                "roh:human/germans",
+                "roh:human/swedes",
+                "roh:human/italians",
+                "roh:human/russians",
+                "roh:human/japanese",
+                "roh:human/ottomens",
+                "roh:human/mamluks"
+            ]
+        }
+    ],
+    "order": 4,
+    "name": "Human Nationalities"
+}

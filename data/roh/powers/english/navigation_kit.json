@@ -1,0 +1,15 @@
+{
+    "type": "apoli:starting_equipment",
+    "stacks": [
+      {
+        "item": "naturescompass:naturescompass"
+      },
+      {
+        "item": "map_atlases:atlas"
+      },
+      {
+        "item": "minecraft:map",
+        "amount": 9
+      }
+    ]
+  }
