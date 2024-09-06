@@ -6,7 +6,7 @@
 		"roh:english/navigation_kit"
 	],
 	"icon": "minecraft:red_wool",
-	"order": 10,
+	"order": 0,
 	"impact": 1,
 	"name": "English",
 	"description": "The English are experts in navigation and exploration. Residing on the British mainland, the English have developed a power base fueled by their vast urban centers and strong Navy. Now eager for expansion and sensing the Spanish decline in the new World, the english push to claim and conquer land in name of the crown."

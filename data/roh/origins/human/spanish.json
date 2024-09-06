@@ -2,11 +2,11 @@
 	"powers": [
 		"origins-classes:trade_availability",
     	"origins-classes:rare_wandering_loot",
-		"roh:spanish/musket_damage",
-		"origins-classes:more_stone_break_speed"
+		"roh:spanish/tercio",
+		"roh:spanish/inquistion"
 	],
 	"icon": "minecraft:yellow_wool",
-	"order": 10,
+	"order": 8,
 	"impact": 2,
 	"name": "Spanish",
 	"description": "The Spanish being the first to discover the new world have quickly became the regions number one super power. However great success brings great envy. Many of Europe's powers vye for influence at Spains expense. Only the veneration of God and the bringing of glory can have Spain continue to prosper, and of course the flow of gold must stay under Spains hands."

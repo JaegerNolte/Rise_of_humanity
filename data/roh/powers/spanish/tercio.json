@@ -1,6 +1,6 @@
 {
   "name": "Tercio",
-  "description": "You have proficiency with muskets, dealing slightly more damage with them.",
+  "description": "You have proficiency with muskets, dealing significanlty more damage with them.",
   "type": "origins:modify_damage_dealt",
   "condition": {
   "type": "origins:equipped_item",
@@ -8,12 +8,12 @@
   "item_condition": {
     "type": "origins:ingredient",
     "ingredient": {
-      "tag": "roh:muskets"
+      "tag": "oldguns:firearm"
         }
       }
     },
 "modifier": {
   "operation": "addition",
-  "value": 10
+  "value": 4
     }
   }
