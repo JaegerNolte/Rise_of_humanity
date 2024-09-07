@@ -1,0 +1,10 @@
+{
+    "name": "Mamluk",
+    "description": "While wearing a full set of armor, you receive a decent protection bonus.",
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "minecraft:generic.armor",
+      "operation": "addition",
+      "value": 4.0
+    }
+}

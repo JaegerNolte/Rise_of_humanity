@@ -1,10 +1,15 @@
 {
 	"powers": [
-		"roh:gunpowder_empire"
+		"roh:gunpowder_empire",
+		"roh:mamluks/saracen_legacy",
+		"roh:mamluks/arabian_horses",
+		"roh:mamluks/mamluk",
+		"origins-classes:trade_availability",
+    	"origins-classes:rare_wandering_loot"
 	],
-	"icon": "minecraft:air",
+	"icon": "minecraft:emerald_block",
 	"order": 10,
-	"impact": 0,
+	"impact": 2,
 	"name": "Mamluks",
-	"description": "DESCRIPTION HERE"
+	"description": "The Mamluks were once elite slave warriors that swiftly carved themselves an empire at the expense of the abbasid caliphate. However, their victories have came short as the emerging Ottomen sultanate seeks rapid territorial expansion at Mamlukean expense. However, with discover of the new world. The Ottomen menace is crippled and seeks to create a powerbase in the region. The Mamlukean sultanate must seek to outbid the rival to reclaim its former hegemony."
 }

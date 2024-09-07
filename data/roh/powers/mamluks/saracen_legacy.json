@@ -1,0 +1,10 @@
+{
+    "name": "Saracen Legacy",
+    "description": "Due to your Arabic ancestry, you are reside in hotter envirements",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "cold_sweat:burning_point",
+        "operation": "addition",
+        "value": 10
+    }  
+}

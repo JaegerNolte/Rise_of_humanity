@@ -1,10 +1,10 @@
 {
 	"powers": [
+		"roh:gunpowder_empire",
 		"origins-classes:more_crop_drops",
 		"origins-classes:more_animal_loot",
 		"roh:french/musketeer",
-		"roh:french/chivalry",
-		"roh:gunpowder_empire"
+		"roh:french/chivalry"
 	],
 	"icon": "minecraft:blue_wool",
 	"order": 10,

@@ -1,10 +1,10 @@
 {
 	"powers": [
+		"roh:gunpowder_empire",
 		"roh:english/arrow_damage",
 		"origins-classes:tree_felling",
 		"origins-classes:more_planks_from_logs",
-		"roh:english/navigation_kit",
-		"roh:gunpowder_empire"
+		"roh:english/navigation_kit"
 	],
 	"icon": "minecraft:red_wool",
 	"order": 10,
