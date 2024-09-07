@@ -1,0 +1,21 @@
+{
+    "name": "Divine Wind",
+    "description": "You have Divine Wind blowing when you are atop a horse, you deal more damage when mounted.",
+    "condition": {
+        "type": "origins:riding",
+        "bientity_condition": {
+            "type": "origins:target_condition",
+            "condition": {
+                "type": "origins:entity_type",
+                "entity_type": "minecraft:horse"
+            }
+        }
+    },
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "name": "Warrior attack damage bonus",
+        "attribute": "minecraft:generic.attack_damage",
+        "value": 1,
+        "operation": "multiply_base"
+    }
+}
