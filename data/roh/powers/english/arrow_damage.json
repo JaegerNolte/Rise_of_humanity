@@ -1,11 +1,13 @@
 {
     "type": "origins:modify_projectile_damage",
+    "name": "English Longbowman",
+    "description": "Deal significantly more damage with arrow weapons",
     "damage_condition": {
         "type": "origins:projectile",
         "projectile": "minecraft:arrow"
     },
     "modifier": {
         "operation": "addition",
-        "value": 8.0
+        "value": 6.0
     }
 }

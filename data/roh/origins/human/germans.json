@@ -1,10 +1,14 @@
 {
 	"powers": [
-		"packnamehere:powernamehere"
+		"origins-classes:tree_felling",
+		"origins-classes:more_planks_from_logs",
+		"roh:germans/mining_speed",
+		"roh:germans/goosestep",
+		"roh:germans/landsknecht"
 	],
-	"icon": "minecraft:grey_wool",
-	"order": 2,
-	"impact": 0,
+	"icon": "minecraft:gray_wool",
+	"order": 10,
+	"impact": 2,
 	"name": "Germans",
-	"description": "DESCRIPTION HERE"
+	"description": "The Germans are a miltaristic folk who have a strong sense of vast building strongholds and strong obsession with military Professionalism. Despite being a smaller nation, the Germans have shown their merit against bigger nations and seek greater glory in the new world."
 }

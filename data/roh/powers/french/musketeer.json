@@ -1,0 +1,67 @@
+{
+  "name": "Musketeer",
+  "description": "You deal slighty more damage with one handed-swords.",
+  "type": "origins:modify_damage_dealt",
+  "condition": {
+  "type": "origins:equipped_item",
+  "equipment_slot": "mainhand",
+  "item_condition": {
+    "type": "origins:ingredient",
+    "ingredient":
+      [
+
+      {"item": "magistuarmory:iron_shortsword"},
+      {"item": "magistuarmory:wood_shortsword"},
+      {"item": "magistuarmory:stone_shortsword"},
+      {"item": "magistuarmory:gold_shortsword"},
+      {"item": "magistuarmory:diamond_shortsword"},
+      {"item": "magistuarmory:netherite_shortsword"},
+      {"item": "magistuarmory:copper_shortsword"},
+      {"item": "magistuarmory:steel_shortsword"},
+      {"item": "magistuarmory:silver_shortsword"},
+      {"item": "magistuarmory:tin_shortsword"},
+      {"item": "magistuarmory:bronze_shortsword"},
+      {"item": "magistuarmory:messer_sword"},
+      {"item": "magistuarmory:iron_katzbalger"},
+      {"item": "magistuarmory:wood_katzbalger"},
+      {"item": "magistuarmory:stone_katzbalger"},
+      {"item": "magistuarmory:gold_katzbalger"},
+      {"item": "magistuarmory:diamond_katzbalger"},
+      {"item": "magistuarmory:netherite_katzbalger"},
+      {"item": "magistuarmory:copper_katzbalger"},
+      {"item": "magistuarmory:steel_katzbalger"},
+      {"item": "magistuarmory:silver_katzbalger"},
+      {"item": "magistuarmory:tin_katzbalger"},
+      {"item": "magistuarmory:bronze_katzbalger"},
+      {"item": "magistuarmory:iron_stylet"},
+      {"item": "magistuarmory:wood_stylet"},
+      {"item": "magistuarmory:stone_stylet"},
+      {"item": "magistuarmory:gold_stylet"},
+      {"item": "magistuarmory:diamond_stylet"},
+      {"item": "magistuarmory:netherite_stylet"},
+      {"item": "magistuarmory:copper_stylet"},
+      {"item": "magistuarmory:steel_stylet"},
+      {"item": "magistuarmory:silver_stylet"},
+      {"item": "magistuarmory:tin_stylet"},
+      {"item": "magistuarmory:bronze_stylet"},
+      {"item": "magistuarmory:iron_chivalrylance"},
+      {"item": "magistuarmory:wood_chivalrylance"},
+      {"item": "magistuarmory:stone_chivalrylance"},
+      {"item": "magistuarmory:gold_chivalrylance"},
+      {"item": "magistuarmory:diamond_chivalrylance"},
+      {"item": "magistuarmory:netherite_chivalrylance"},
+      {"item": "magistuarmory:copper_chivalrylance"},
+      {"item": "magistuarmory:steel_chivalrylance"},
+      {"item": "magistuarmory:silver_chivalrylance"},
+      {"item": "magistuarmory:tin_chivalrylance"},
+      {"item": "magistuarmory:bronze_chivalrylance"},
+      {"tag": "minecraft:swords"}
+
+    ]
+        }
+      },
+"modifier": {
+  "operation": "addition",
+  "value": 2
+    }
+}

@@ -1,5 +1,7 @@
 {
     "type": "apoli:starting_equipment",
+    "name": "Navigation Act",
+    "description": "Start with Natures compass, Atlas, and maps",
     "stacks": [
       {
         "item": "naturescompass:naturescompass"

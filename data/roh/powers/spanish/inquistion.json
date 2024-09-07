@@ -1,4 +1,6 @@
 {
+  "name": "Inquistion",
+  "description": "Deal tremoudous damage against heretics, heathens, and the foul.",
     "type": "origins:modify_damage_dealt",
     "target_condition": {
         "type": "origins:entity_group",

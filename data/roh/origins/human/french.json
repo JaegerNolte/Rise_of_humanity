@@ -2,11 +2,11 @@
 	"powers": [
 		"origins-classes:more_crop_drops",
 		"origins-classes:more_animal_loot",
-		"roh:french/attack_damage",
+		"roh:french/musketeer",
 		"roh:french/chivalry"
 	],
 	"icon": "minecraft:blue_wool",
-	"order": 1,
+	"order": 10,
 	"impact": 2,
 	"name": "French",
 	"description": "The French are blessed by the vast fertile land and the sizable military they possess. The French are primed to be next major power in the region right behind Spain. Eager to take Spanish land for the name of their king and monopolize on the fur trade in the new world."

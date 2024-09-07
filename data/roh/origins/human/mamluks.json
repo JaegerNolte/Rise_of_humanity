@@ -3,7 +3,7 @@
 		"packnamehere:powernamehere"
 	],
 	"icon": "minecraft:air",
-	"order": 5,
+	"order": 10,
 	"impact": 0,
 	"name": "Mamluks",
 	"description": "DESCRIPTION HERE"

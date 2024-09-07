@@ -1,4 +1,6 @@
 {
+    "name": "Chivalry",
+    "description": "Deal devasting blows while mounted on horseback",
   "condition": {
       "type": "origins:riding",
       "bientity_condition": {
