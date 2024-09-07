@@ -1,0 +1,10 @@
+{
+    "name": "Condottieri",
+    "description": "While wearing a full set of armor, you receive a small protection bonus.",
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "minecraft:generic.armor",
+      "operation": "addition",
+      "value": 2.0
+    }
+}

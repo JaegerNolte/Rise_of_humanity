@@ -1,0 +1,13 @@
+{
+  "type": "origins:modify_projectile_damage",
+  "name": "Genoese Crossbowmen",
+  "description": "Deal significantly more damage with arrow weapons",
+  "damage_condition": {
+      "type": "origins:projectile",
+      "projectile": "minecraft:arrow"
+  },
+  "modifier": {
+      "operation": "addition",
+      "value": 6.0
+  }
+}

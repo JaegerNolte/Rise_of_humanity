@@ -1,0 +1,11 @@
+{
+    "name": "Renaissance",
+    "description": "With the revival of classical knowledge, you gain more experience than others.",
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Increased Experience Gain",
+        "attribute": "attributeslib:experience_gained",
+        "value": 1,
+        "operation": "multiply_base"
+    }
+}

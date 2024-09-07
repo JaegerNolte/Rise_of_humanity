@@ -1,10 +1,15 @@
 {
 	"powers": [
-		"roh:gunpowder_empire"
+		"roh:gunpowder_empire",
+		"origins-classes:trade_availability",
+		"origins-classes:rare_wandering_loot",
+		"roh:italians/renaissance",
+		"roh:italians/genoese",
+		"roh:italians/condottieri"
 	],
 	"icon": "minecraft:lime_wool",
 	"order": 10,
-	"impact": 0,
+	"impact": 2,
 	"name": "Italians",
-	"description": "DESCRIPTION HERE"
+	"description": "The Italians are renowned for their tradesmanship and scholarly contributions in the renaissance. However, their monopoly on trade has declined with emergence of the Turks in the east and the discover of the new world. Desperate to maintain their status, the italians set their sights in the new world."
 }
