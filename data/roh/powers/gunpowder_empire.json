@@ -1,0 +1,19 @@
+{
+    "name": "Gunpowder Empire",
+    "description": "This race have mastered the use of gunpowder.",
+    "type": "origins:modify_damage_dealt",
+    "condition": {
+    "type": "origins:equipped_item",
+    "equipment_slot": "mainhand",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "oldguns:firearm"
+          }
+        }
+      },
+  "modifier": {
+    "operation": "multiply_base",
+    "value": 0.3
+      }
+    }

@@ -4,7 +4,8 @@
 		"origins-classes:more_planks_from_logs",
 		"roh:germans/mining_speed",
 		"roh:germans/goosestep",
-		"roh:germans/landsknecht"
+		"roh:germans/landsknecht",
+		"roh:gunpowder_empire"
 	],
 	"icon": "minecraft:gray_wool",
 	"order": 10,
