@@ -1,0 +1,10 @@
+{
+    "name": "Expert Fishermen",
+    "description": "You are an expert at catching fish, you are able to reel up more valuable catches.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.luck",
+        "operation": "addition",
+        "value": 5.0
+    }
+}
