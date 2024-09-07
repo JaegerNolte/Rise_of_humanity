@@ -1,10 +1,12 @@
 {
 	"powers": [
-		"roh:gunpowder_empire"
+		"roh:gunpowder_empire",
+		"roh:swedes/carolean",
+		"roh:swedes/pike_and_shot"
 	],
 	"icon": "minecraft:light_blue_wool",
 	"order": 10,
 	"impact": 0,
 	"name": "Swedish",
-	"description": "DESCRIPTION HERE"
+	"description": "The Swedes are a hardy people who have grown accustomed to the harsh weather of the North. They are fierce people who excel in combat with strength and vigor. For many years the Swedes have been subjects of many German kings, but now seek to form an Empire of their own. Setting their sights in Europe and beyond."
 }
