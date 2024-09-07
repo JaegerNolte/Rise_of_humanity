@@ -1,10 +1,15 @@
 {
 	"powers": [
-		"roh:gunpowder_empire"
+		"roh:gunpowder_empire",
+		"roh:ottomens/ghazi",
+		"roh:ottomens/janissary",
+		"roh:ottomens/turkic_heritage",
+		"origins-classes:twin_breeding",
+    	"origins-classes:more_animal_loot"
 	],
-	"icon": "minecraft:air",
+	"icon": "minecraft:green_concrete",
 	"order": 10,
-	"impact": 0,
+	"impact": 2,
 	"name": "Ottomens",
-	"description": "DESCRIPTION HERE"
+	"description": "The Turks are warlike peoples that mastered the use of gunpowder. Monopolizing trade from the East to west the Ottomans have developed a massive economic base to fuel their jannisary armies. However, the discover of the new world cripples the Ottomen war machine and the Mamluks regaining strenght from previous conflicts, push the Ottomens to claim land in the new world."
 }

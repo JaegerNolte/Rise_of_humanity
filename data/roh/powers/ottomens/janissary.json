@@ -1,0 +1,19 @@
+{
+    "name": "Janissary",
+    "description": "You have a high degree of professionalism dealing with gunpowder weapons.",
+    "type": "origins:modify_damage_dealt",
+    "condition": {
+    "type": "origins:equipped_item",
+    "equipment_slot": "mainhand",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "oldguns:firearm"
+          }
+        }
+      },
+  "modifier": {
+    "operation": "addition",
+    "value": 3
+      }
+    }
