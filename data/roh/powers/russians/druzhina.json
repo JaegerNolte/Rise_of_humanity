@@ -1,11 +1,10 @@
 {
     "name": "Druzhina",
-    "description": "Receive less damage than normal",
-    "type": "origins:modify_damage_taken",
+    "description": "While wearing a full set of armor, you receive a decent protection bonus.",
+    "type": "origins:conditioned_attribute",
     "modifier": {
-        "type":"modify_damage_taken",
-        "name": "resistance",
-        "operation": "addition",
-        "value": -0.05
+      "attribute": "minecraft:generic.armor",
+      "operation": "addition",
+      "value": 5.0
     }
 }
