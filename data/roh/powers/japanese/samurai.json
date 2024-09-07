@@ -1,0 +1,211 @@
+{
+    "name": "Samurai Tradition",
+    "description": "You have proficiency specialized Samurai Weaponry, dealing slightly more damage with them.",
+    "type": "origins:multiple",
+    "damage_boost":{
+        "type": "origins:modify_damage_dealt",
+        "damage_condition":{
+        "type": "origins:attacker",
+        "entity_condition": {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": 
+                [
+                    {
+                        "item": "epicsamurai:katana"
+                    },
+                    {
+                        "item": "epicsamurai:sai"
+                    },
+                    {
+                        "item": "epicsamurai:wakizashi"
+                    },
+                    {
+                        "item": "epicsamurai:naginata"
+                    },
+                    {
+                        "item": "epicsamurai:nagamaki"
+                    },
+                    {
+                        "item": "epicsamurai:shuko"
+                    },
+                    {
+                        "item": "epicsamurai:odachi"
+                    },
+                    {
+                        "item": "epicsamurai:tonbukiri"
+                    },
+                    {
+                        "item": "epicsamurai:kamayari"
+                    },
+                    {
+                        "item": "epicsamurai:kunai"
+                    },
+                    {
+                        "item": "epicsamurai:kama"
+                    },
+                    {
+                        "item": "epicsamurai:shuriken"
+                    },
+                    {
+                        "item": "epicsamurai:katana_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:wakizashi_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:katana_oni"
+                    },
+                    {
+                        "item": "epicsamurai:katana_kitsune"
+                    },
+                    {
+                        "item": "epicsamurai:katana_kitsune_blue"
+                    },
+                    {
+                        "item": "epicsamurai:katana_akaname"
+                    },
+                    {
+                        "item": "epicsamurai:katana_jorogumo"
+                    },
+                    {
+                        "item": "epicsamurai:naginata_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:nagamaki_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:shuko_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:odachi_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:tonbukiri_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:kamayari_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:kunai_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:kama_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:sai_netherite"
+                    }
+                ]
+            }
+        }
+        },
+        "modifier": {
+        "operation": "addition",
+        "value": 1.0
+        }
+    },
+    "speed_boost": {
+        "type": "origins:conditioned_attribute",
+        "condition": {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+                "type": "origins:ingredient",
+                "ingredient": 
+                [
+                    {
+                        "item": "epicsamurai:katana"
+                    },
+                    {
+                        "item": "epicsamurai:sai"
+                    },
+                    {
+                        "item": "epicsamurai:wakizashi"
+                    },
+                    {
+                        "item": "epicsamurai:naginata"
+                    },
+                    {
+                        "item": "epicsamurai:nagamaki"
+                    },
+                    {
+                        "item": "epicsamurai:shuko"
+                    },
+                    {
+                        "item": "epicsamurai:odachi"
+                    },
+                    {
+                        "item": "epicsamurai:tonbukiri"
+                    },
+                    {
+                        "item": "epicsamurai:kamayari"
+                    },
+                    {
+                        "item": "epicsamurai:kunai"
+                    },
+                    {
+                        "item": "epicsamurai:kama"
+                    },
+                    {
+                        "item": "epicsamurai:shuriken"
+                    },
+                    {
+                        "item": "epicsamurai:katana_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:wakizashi_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:katana_oni"
+                    },
+                    {
+                        "item": "epicsamurai:katana_kitsune"
+                    },
+                    {
+                        "item": "epicsamurai:katana_kitsune_blue"
+                    },
+                    {
+                        "item": "epicsamurai:katana_akaname"
+                    },
+                    {
+                        "item": "epicsamurai:katana_jorogumo"
+                    },
+                    {
+                        "item": "epicsamurai:naginata_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:nagamaki_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:shuko_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:odachi_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:tonbukiri_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:kamayari_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:kunai_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:kama_netherite"
+                    },
+                    {
+                        "item": "epicsamurai:sai_netherite"
+                    }
+                ]
+            }
+        },
+        "modifier": {
+            "attribute": "minecraft:generic.attack_speed",
+            "operation": "addition",
+            "value": 2.5
+        }
+    }
+}

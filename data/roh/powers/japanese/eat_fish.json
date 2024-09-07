@@ -1,0 +1,33 @@
+{
+    "name": "Japanese Cuisine",
+    "description": "You are skilled at preparing various kinds of Sushi. Raw Fish is very nurioushing, and you are not harmed by Pufferfish.",
+    "type": "origins:modify_food",
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": [
+            {
+                "item": "minecraft:cod"
+            },
+            {
+                "item": "minecraft:pufferfish"
+            },
+            {
+                "item": "minecraft:salmon"
+            },
+            {
+                "item": "minecraft:tropical_fish"
+            }
+        ]
+    },
+    "food_modifier": {
+        "name": "Increased food points",
+        "operation": "addition",
+        "value": 4.0
+    },
+    "saturation_modifier": {
+        "name": "Increased saturation points",
+        "operation": "addition",
+        "value": 2.0
+    },
+    "prevent_effects": true
+}
