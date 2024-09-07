@@ -1,10 +1,17 @@
 {
 	"powers": [
-		"roh:gunpowder_empire"
+		"roh:gunpowder_empire",
+		"origins-classes:more_planks_from_logs",
+		"origins-classes:tree_felling",
+		"roh:russians/russian_winter",
+		"roh:russians/cossack_heritage",
+		"roh:russians/streltsi",
+		"roh:russians/druzhina"
+
 	],
 	"icon": "minecraft:green_wool",
 	"order": 10,
-	"impact": 0,
+	"impact": 2,
 	"name": "Russians",
-	"description": "DESCRIPTION HERE"
+	"description": "The Russians are resilient people, with a vast population and power base. The Russians eager to catch up with their western counterparts expand east to create an hegemony of their own. Not wishing to miss out new world territories, the Russians march on. "
 }

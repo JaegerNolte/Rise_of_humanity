@@ -1,0 +1,11 @@
+{
+    "name": "Druzhina",
+    "description": "Receive less damage than normal",
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "type":"modify_damage_taken",
+        "name": "resistance",
+        "operation": "addition",
+        "value": -0.05
+    }
+}

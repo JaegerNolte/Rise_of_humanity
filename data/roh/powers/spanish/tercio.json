@@ -1,6 +1,6 @@
 {
   "name": "Tercio",
-  "description": "You have proficiency with muskets, dealing significantly gunpowder weapons.",
+  "description": "You have proficiency with muskets, dealing significantly more damage using gunpowder weapons.",
   "type": "origins:modify_damage_dealt",
   "condition": {
   "type": "origins:equipped_item",
