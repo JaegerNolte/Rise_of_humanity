@@ -1,4 +1,6 @@
 {
+    "name": "German Effiency",
+    "description": "Gain two materials rather than one when mining ores",
     "type": "origins:replace_loot_table",
     "replace": {
         "([a-z|0-9|\\-|_]).*:blocks\/(.*)_ore": "roh:double_drops"
