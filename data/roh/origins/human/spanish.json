@@ -1,10 +1,9 @@
 {
 	"powers": [
 		"roh:gunpowder_empire",
-		"origins-classes:trade_availability",
-    	"origins-classes:rare_wandering_loot",
 		"roh:spanish/tercio",
-		"roh:spanish/inquistion"
+		"roh:spanish/inquistion",
+		"roh:spanish/three_g"
 	],
 	"icon": "minecraft:yellow_wool",
 	"order": 10,
