@@ -1,9 +1,0 @@
-{
-  "name" : "Resource Extraction",
-  "description" : "Germans tend to gather raw material faster than their human counterparts",
-  "type" : "origins:modify_break_speed",
-  "modifier" : {
-    "operation" : "multiply_base",
-    "value" : 1.5
-  }
-}
