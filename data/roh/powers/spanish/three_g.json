@@ -1,9 +1,0 @@
-{
-    "name": "God, Glory, and Gold",
-    "description": "Zombies have a chance to drop emeralds or gold",
-    "type": "origins:replace_loot_table",
-    "replace": {
-        "minecraft:entities/zombie": "roh:entities/spanish_gold"
-    }
-}
-

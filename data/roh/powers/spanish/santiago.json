@@ -1,0 +1,9 @@
+{
+    "name": "Santiago!",
+    "description": "Morale is High! Santiago still stands!",
+    "type": "origins:modify_healing",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 1
+    }
+}
