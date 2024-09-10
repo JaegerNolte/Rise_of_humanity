@@ -1,5 +1,5 @@
 {
-    "name": "Turkic Hertiage",
+    "name": "Timar system",
     "description": "Deal devasting blows while mounted on horseback",
   "condition": {
       "type": "origins:riding",
