@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"roh:gunpowder_empire",
+		"origins-classes:tree_felling",
+		"roh:prussians/german_effiency",
+		"roh:prussians/goosestep",
+		"roh:prussians/landsknecht"
+	],
+	"icon": "minecraft:gray_wool",
+	"order": 10,
+	"impact": 2,
+	"name": "Prussians",
+	"description": "The Prussians are a miltaristic folk who have a strong sense of building strongholds and deep obsession with military Professionalism."
+}
